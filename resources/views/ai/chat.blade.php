@@ -11,7 +11,7 @@
 <div class="container mt-5">
     <div class="card shadow">
         <div class="card-header bg-primary text-white">
-            🤖 School AI Assistant
+        School AI Assistant
         </div>
 
         <div class="card-body" style="height:400px; overflow-y:auto" id="chatBox">
